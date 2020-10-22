@@ -7,3 +7,5 @@ Techniques
 - API
 - Data visualisation
 - Data manipulation
+
+Projects can be viewed using nbviewer (https://nbviewer.jupyter.org/) if Github's ipynb glitch continues.
